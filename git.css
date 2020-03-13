@@ -1,0 +1,30 @@
+*
+{ margin: 0px;
+  padding: 0px;
+}
+
+.Titre{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
+        font-size: larger;
+        text-align: center;
+}
+
+.Soustitre{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-style: italic;
+            font-size: small;
+            text-align: center;
+}
+
+td{
+    width: 400px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family:'Roboto Mono', monospace;
+    border: 4px outset black;
+    border-radius: 5px;
+    text-shadow: 2px 2px 4px whitesmoke;
+    box-shadow: 4px 4px 0px black;
+    padding: 5px;
+}
